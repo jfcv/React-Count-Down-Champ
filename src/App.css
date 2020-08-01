@@ -11,3 +11,10 @@
 .Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
   display: inline;
 }
+
+.Deadline-input {
+  font-size: 25px;
+  margin-top: 5px;
+  margin-left: 40%;
+  margin-right: 5px;
+}
